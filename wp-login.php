@@ -88,7 +88,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/relicworld\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="./wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"2fef4be331"};
+var userProfileL10n = {"user_id":"0","nonce":"dc941dfde6"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
